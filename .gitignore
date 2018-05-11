@@ -1,3 +1,6 @@
-.idea
-.gradle
-gradle
+.idea/*
+.gradle/*
+gradle/*
+h2/*
+build/*
+out/*
